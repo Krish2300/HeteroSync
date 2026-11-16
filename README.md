@@ -20,7 +20,7 @@ This solver-agnostic framework solves that bottleneck without modifying underlyi
 2. **Heterogeneous Compute Fabric (HCF):** Discovers nearby satellite devices (smartphones, secondary laptops, SBCs) via mDNS or USB and offloads pre/post-processing tasks via a lightweight Python JSON-RPC agent.
 3. **Adaptive Surrogate Engine (ASE):** Extracts compact case fingerprints (mesh statistics, boundary conditions, residual trajectories) into a local/federated library to warm-start future similar simulations.
 
-* **Read the Full Paper:** 
+* **Read the Full Paper:** https://github.com/Krish2300/HeteroSync/blob/main/Abstract.pdf
 
 ---
 
